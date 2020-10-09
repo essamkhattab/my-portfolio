@@ -12,14 +12,9 @@
       "city": "Clearwater",
       "state": "U.S."
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.essam.tk",
+    "resumedownload": "",
     "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/saajansangha/",
