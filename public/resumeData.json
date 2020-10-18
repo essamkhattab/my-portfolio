@@ -32,10 +32,10 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": " ",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Modern Academy",
+        "degree": "B.S.E.E",
+        "graduated": "Aug 2011",
+        "description": "Graduated with Electrical & computer engineer"
       }
     ],
     "work": [
@@ -107,15 +107,11 @@
       }
     ]
   },
-  "testimonials": {
+  "Quote": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "The future belongs to those who learn more skills and combine them in creative ways. ",
+        "user": "Robert Greene"
       }
     ]
   }
